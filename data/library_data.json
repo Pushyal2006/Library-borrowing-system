@@ -1,0 +1,28 @@
+{
+    "members": [
+        {
+            "member_id": "121",
+            "name": "Pushyal Poojari",
+            "email": "pushyalpoojari91@gmail.com"
+        }
+    ],
+    "resources": [
+        {
+            "resource_id": "13",
+            "title": "IT",
+            "type": "book",
+            "available": true
+        }
+    ],
+    "loans": [
+        {
+            "loan_id": "L001",
+            "member_id": "121",
+            "resource_id": "13",
+            "issue_date": "2026-11-26",
+            "due_date": "2026-12-10",
+            "return_date": "2026-11-26",
+            "fine_amount": 0.0
+        }
+    ]
+}
